@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('ya lo sabia bby ya pero serio me confirmas al whats')
+    alert('YA SABIA TE QUELO MUCHO <3')
 });
 
 const noBtn = document.querySelector('#noBtn');
